@@ -8,8 +8,8 @@
 ### HW2 & HW3 
 - Implementing a MLP , based on differenet datasets
 
-###HW4 
+## HW4 
  - Using K-means algorithm in blobs dataset and image size reduction 
 
-###HW5 
+## HW5 
  - Implementing RBFN 
