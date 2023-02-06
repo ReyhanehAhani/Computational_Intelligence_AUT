@@ -3,7 +3,7 @@
 ### HW1
 
 
-- implementing a simple single neural network using sigmoid and  tanh and comparing the results
+- implementing a simple single neural network using sigmoid and  tanh and comparing results
 
 ### HW2 & HW3 
 - Implementing a MLP , based on differenet datasets
